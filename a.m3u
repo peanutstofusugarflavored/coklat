@@ -7,18 +7,24 @@ https://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg",MNCTV
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/mnctv/manifest.mpd
 
-#EXTINF:-1 tvg-id="ANTV.id" group-title="Nasional" tvg-logo="https://images.indihometv.com/images/channels/image_ch_antv.png",ANTV
-https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=782
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_antv.png" group-title="Nasional", ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
 
-#EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png",SCTV
+#EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png",SCTV (Server 1)
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/sctv/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_transtv.png" group-title="Nasional",Trans TV (Server 1)
-#https://livestream.transtv.co.id/stream/live/ttv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png" group-title="Nasional",SCTV (Server 2)
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8?app_type=web&userid=lite&chname=sctv
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_transtv.png" group-title="Nasional",Trans TV
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_transtv.png" group-title="Nasional",Trans TV (Server 1)
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_transtv.png" group-title="Nasional",Trans TV (Server 2)
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_trans7.png" group-title="Nasional",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
@@ -44,7 +50,7 @@ https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/indosiar/manifest.mpd
 
 #EXTINF:-1 group-title="Nasional" tvg-id="" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png",Indosiar (Server 2)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=indosiar
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png",RTV (Server 1)
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/RAJAWALI_TV/manifest.mpd
@@ -133,6 +139,10 @@ https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DAAI_TV
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_daaitv.png" group-title="Nasional",DAAI TV (Server 3)
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000044/1024.m3u8
+
 #EXTINF:-1 tvg-id="Metro TV.id" tvg-logo="https://images.indihometv.com/images/channels/image_ch_metrotv.png" group-title="Nasional", Metro TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -159,7 +169,10 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
 #EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsT1-TAALAyekW9BJnt26w8n_3sQKQ23O1iHaCkvX7Xg&s=10",RCTV
 https://v10.siar.us/rctv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwGvX-tHbE18P4GCD6WkdiDEXrsySSBMI8Zth8Nr9xYQ&s=10" group-title="DAERAH",Bandung TV
+#EXTINF:0 tvg-country="ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwGvX-tHbE18P4GCD6WkdiDEXrsySSBMI8Zth8Nr9xYQ&s=10" group-title="DAERAH",Bandung TV (Server 1)
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8?checkedby:iptvcat.org
+
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwGvX-tHbE18P4GCD6WkdiDEXrsySSBMI8Zth8Nr9xYQ&s=10" group-title="DAERAH",Bandung TV (Server 2)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000068/1024.m3u8
 
 #EXTINF:-1 group-title="DAERAH" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-AntaraTV_2025_10_24_15_50_32.jpg",Antara TV
@@ -226,8 +239,13 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
 
-#EXTINF:-1 group-title="DAERAH" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jaktv.png",JakTV
+#EXTINF:-1 group-title="DAERAH" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jaktv.png",JakTV (Server 1)
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/JAK_TV/manifest.mpd
+
+#EXTINF:-1 tvg-id="112" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jaktv.png" group-title="DAERAH", JakTV (Server 2)
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Jak_tv
 
 #EXTINF:-1 group-title="DAERAH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMOqBMSW4GHtf6ZB48fNFYBS42um5CCntKqWYArQp7SQ&s=10",Oxygen ID
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
@@ -239,6 +257,10 @@ https://stream.matrixtv.id/hls/stream.m3u8
 #EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwpkWkpwzujx4RxgSteaNfK2d7ON77YJeQ7P6kQtSTKA&s",Elshinta TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBiPpPmM_2lwsKLF4UL1fgMG3S2zO0J7CnVpBAg-5Nsw&s=10" group-title="DAERAH",Balikpapan TV
+https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8?checkedby:iptvcat.org
+
 
 Movies & Entertainment⚠️⚠️⚠️
 
@@ -464,6 +486,11 @@ Religion: Kristen⚠️⚠️⚠️⚠️
 #EXTINF:-1 group-title="Religion: Kristen" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_uchannel.png",UChannel
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/uchannel/manifest.mpd
   
+#EXTINF:-1 tvg-id="78" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyjQ06lJjc-ekyMKv4ByNQK2Fwug8dQyUerAiyHny5FQ&s" group-title="Religion: Kristen",TBN
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/s/s39/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TBN
+  
 Knowledge & Lifestyle ⚠️⚠️⚠️⚠️
 
 #EXTINF:-1 tvg-logo="https://pic.dens.tv/tv_183x174/1701335366_square.jpg" group-title="Knowledge & Lifestyle",Dens Knowledge
@@ -535,6 +562,9 @@ https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/fashiontv/manifest.mpd
 #EXTINF:-1 group-title="Knowledge & Lifestyle" tvg-logo="http://www.biznetvideo.net/images/video/poster/bizlifestyle.jpg",Biznet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/manifest.mpd
 
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/ZREy4zM.png" group-title="Knowledge & Lifestyle",Biznet Adventure
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?checkedby:iptvcat.org
+
 #EXTINF:-1 group-title="Knowledge & Lifestyle" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cgtndocumentary.png",CGTN Documentary (Server 1)
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
 
@@ -552,7 +582,11 @@ http://op-group1-swiftservesd-1.dens.tv/s/s20/index.m3u8?app_type=web&amp;userid
 
 Kids⚠️⚠️⚠️⚠️
 
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHP4gK-yGMUdK7XLqiQlbVuKt_JBxekK5jD0HtMDWzmA&s=10" group-title="Kids",ZOO MOO
+EXTINF:-1 group-title="Kids" tvg-id="zoomoo.sg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHP4gK-yGMUdK7XLqiQlbVuKt_JBxekK5jD0HtMDWzmA&s=10",Zoo Moo (Server 1)
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHP4gK-yGMUdK7XLqiQlbVuKt_JBxekK5jD0HtMDWzmA&s=10" group-title="Kids",Zoo Moo (Server 2)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000151/1024.m3u8
 
 #EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://images.indihometv.com/images/channels/image_ch_dreamworks.png" group-title="Kids", DREAMWORKS
@@ -758,11 +792,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h156/index2.m3u8?app_type=web&amp;user
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h91/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-id="78" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyjQ06lJjc-ekyMKv4ByNQK2Fwug8dQyUerAiyHny5FQ&s" group-title="News & Other", TBN
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/s/s39/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TBN
-
 
 Sports ⚠️⚠️⚠️⚠️⚠️
 
@@ -810,15 +839,10 @@ http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641626.ts
 #EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg" group-title="SPORTS",Alwan Sport 4
 http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641627.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TVRI SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSm75uUXEv7lK_uF9ud4R3M7i43j-j2mpLxXaZv_v4nF0cVRo1RB_MiY&s=10" group-title="SPORTS",TVRI Sport (Server 1)
+#EXTINF:-1 tvg-id="" tvg-name="TVRI SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSm75uUXEv7lK_uF9ud4R3M7i43j-j2mpLxXaZv_v4nF0cVRo1RB_MiY&s=10" group-title="SPORTS",TVRI Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-
-#EXTINF:-1 tvg-id="118" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSm75uUXEv7lK_uF9ud4R3M7i43j-j2mpLxXaZv_v4nF0cVRo1RB_MiY&s=10" group-title="SPORTS", TVRI Sport (Server 2)
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h238/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TVRI_Sport
 
 #EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg" group-title="SPORTS",Alwan Sport 5
 http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641628.ts
