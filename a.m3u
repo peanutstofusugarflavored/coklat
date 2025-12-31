@@ -6,7 +6,7 @@ http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/globaltv/manifest.mpd
 #EXTVLCOPT:http-referrer=http://www.rctiplus.com/
 http://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
-#EXTINF:-1 tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2zZkqJj5qCgswMA-ZjFUudUQJEL_nSbKnix5YojYTGw&s=10" group-title="Nasional",BN CHANNEL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2zZkqJj5qCgswMA-ZjFUudUQJEL_nSbKnix5YojYTGw&s=10" group-title="Nasional",BN CHANNEL
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg",MNCTV (Server 1)
@@ -17,10 +17,10 @@ http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/mnctv/manifest.mpd
 #EXTVLCOPT:http-referrer=http://www.rctiplus.com/
 http://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
-#EXTINF:-1 tvg-id="ANTV.id" group-title="Nasional" tvg-logo="http://images.indihometv.com/images/channels/image_ch_antv.png",ANTV (Server 1)
+#EXTINF:-1 tvg-id="ANTV.id" group-title="Nasional" tvg-logo="https://images.indihometv.com/images/channels/image_ch_antv.png",ANTV (Server 1)
 http://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=782
 
-#EXTINF:-1 tvg-logo="http://images.indihometv.com/images/channels/image_ch_antv.png" group-title="Nasional", ANTV (Server 2) (gak support wifi indih*me)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_antv.png" group-title="Nasional", ANTV (Server 2) (gak support wifi indih*me)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
 
@@ -38,14 +38,14 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8?app_type=web&userid=li
 #KODIPROP:inputstream.adaptive.license_key=http://nextgenz.my.id/event/pidio/play.mpd?id=204&type=drm
 http://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 
-#EXTINF:-1 tvg-logo="http://images.indihometv.com/images/channels/image_ch_transtv.png" group-title="Nasional",Trans TV (Server 1)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_transtv.png" group-title="Nasional",Trans TV (Server 1)
 http://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.indihometv.com/images/channels/image_ch_transtv.png" group-title="Nasional",Trans TV (Server 2) (gak support wifi indih*me)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_transtv.png" group-title="Nasional",Trans TV (Server 2) (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
 
-#EXTINF:-1 tvg-logo="http://images.indihometv.com/images/channels/image_ch_trans7.png" group-title="Nasional",Trans 7
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_trans7.png" group-title="Nasional",Trans 7
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg" group-title="Nasional",RCTI (Server 1)
@@ -59,12 +59,12 @@ http://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg" group-title="Nasional",RCTI (Server 3) (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
 
-#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-url="http://bit.ly/IndonesiaEpg" tvg-name="BTV" tvg-logo="http://images.indihometv.com/images/channels/image_ch_btv.png" group-title="Nasional",BTV
+#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-url="http://bit.ly/IndonesiaEpg" tvg-name="BTV" tvg-logo="https://images.indihometv.com/images/channels/image_ch_btv.png" group-title="Nasional",BTV
 http://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW1MuO-B7b8rp-OxvTMusaYhyDeGdJVVnnedaN9vQV8w&s=10" group-title="Nasional",GARUDA TV (Server 1)
-http://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
 #EXTINF:-1 tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW1MuO-B7b8rp-OxvTMusaYhyDeGdJVVnnedaN9vQV8w&s=10" group-title="Nasional",GARUDA TV (Server 2)
 http://tv.casindo.org/hls/11/11.m3u8
@@ -87,10 +87,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.indihometv.com/images/channels/image_ch_sindonews.png" group-title="Nasional",SINDONEWS TV (Server 1)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_sindonews.png" group-title="Nasional",SINDONEWS TV (Server 1)
 http://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
-#EXTINF:-1 tvg-logo="http://images.indihometv.com/images/channels/image_ch_sindonews.png" group-title="Nasional",SINDONEWS TV (Server 2) (gak support wifi indih*me)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_sindonews.png" group-title="Nasional",SINDONEWS TV (Server 2) (gak support wifi indih*me)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.visionplustv.id/
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8
@@ -99,24 +99,24 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8
 #EXTINF:-1 group-title="Nasional" tvg-logo="http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_Sinpo-1800x1800_2025_11_06_13_04_13.jpg",Sin Po TV
 http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/sinpotv/manifest.mpd
 
-#EXTINF:-1 tvg-id="--" group-title="Nasional" group-logo="http://iili.io/FZpXRf4.jpg" tvg-logo="http://images.indihometv.com/images/channels/image_ch_tvone.png",TVONE (Server 1)
+#EXTINF:-1 tvg-id="--" group-title="Nasional" group-logo="http://iili.io/FZpXRf4.jpg" tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvone.png",TVONE (Server 1)
 http://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
   
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://images.indihometv.com/images/channels/image_ch_tvone.png",TVONE (Server 2)
+#EXTINF:-1 group-title="Nasional" tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvone.png",TVONE (Server 2)
 http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 
-#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-logo="http://images.indihometv.com/images/channels/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" group-title="Nasional",MDTV (Server 1)
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-logo="https://images.indihometv.com/images/channels/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" group-title="Nasional",MDTV (Server 1)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NET.
 
-#EXTINF:-1 tvg-id="NET.TV.id" tvg-logo="http://images.indihometv.com/images/channels/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" group-title="Nasional",MDTV (Server 2)
+#EXTINF:-1 tvg-id="NET.TV.id" tvg-logo="https://images.indihometv.com/images/channels/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" group-title="Nasional",MDTV (Server 2)
 http://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=875
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://images.indihometv.com/images/channels/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" group-title="Nasional",MDTV (Server 3)
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" group-title="Nasional",MDTV (Server 3)
 http://tv.casindo.org/hls/44/44.m3u8
 
-#EXTINF:-1 tvg-logo="http://images.indihometv.com/images/channels/image_ch_moji.png" group-title="Nasional",MOJI
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="Nasional",MOJI
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
@@ -130,15 +130,15 @@ http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/nusantaratv/manifest.mpd
 #EXTINF:-1 tvg-id="Nusantara.TV.id" tvg-name="Nusantara TV" tvg-logo="http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nusantaratv.png" group-title="Nasional",NUSANTARA TV (Server 2)
 http://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8?app_type=web&userid=lite&chname=Nusantara_TV_NTV-
 
-#EXTINF:-1 tvg-id="--" group-title="Nasional" group-logo="" tvg-logo="http://images.indihometv.com/images/channels/image_ch_inews.png",INEWS (Server 1)
+#EXTINF:-1 tvg-id="--" group-title="Nasional" group-logo="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_inews.png",INEWS (Server 1)
 http://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 
-#EXTINF:-1 group-title="Nasional" tvg-id="iNews R+ - [Channel 433].id" tvg-url="http://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="http://images.indihometv.com/images/channels/image_ch_inews.png",INEWS (Server 2)
+#EXTINF:-1 group-title="Nasional" tvg-id="iNews R+ - [Channel 433].id" tvg-url="http://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://images.indihometv.com/images/channels/image_ch_inews.png",INEWS (Server 2)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=http://www.rctiplus.com/
 http://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
  
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="http://images.indihometv.com/images/channels/image_ch_inews.png" group-title="Nasional",INEWS (Server 3) (gak support wifi indih*me)
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://images.indihometv.com/images/channels/image_ch_inews.png" group-title="Nasional",INEWS (Server 3) (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cnnindonesia.png",CNN Indonesia
@@ -166,19 +166,19 @@ http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&amp;userid
 #EXTINF:-1 group-title="Nasional" tvg-logo="http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-TVRI-World_2025_11_03_11_11_10.jpg",TVRI World
 http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/tvriworld/manifest.mpd
 
-#EXTINF:-1 tvg-logo="http://images.indihometv.com/images/channels/image_ch_daaitv.png" group-title="Nasional",DAAI TV (Server 1)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_daaitv.png" group-title="Nasional",DAAI TV (Server 1)
 http://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
-#EXTINF:-1 tvg-id="23" tvg-logo="http://images.indihometv.com/images/channels/image_ch_daaitv.png" group-title="Nasional",DAAI TV (Server 2)
+#EXTINF:-1 tvg-id="23" tvg-logo="https://images.indihometv.com/images/channels/image_ch_daaitv.png" group-title="Nasional",DAAI TV (Server 2)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DAAI_TV
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.indihometv.com/images/channels/image_ch_daaitv.png" group-title="Nasional",DAAI TV (Server 3) (gak support wifi indih*me)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_daaitv.png" group-title="Nasional",DAAI TV (Server 3) (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000044/1024.m3u8
 
-#EXTINF:-1 tvg-id="Metro TV.id" tvg-logo="http://images.indihometv.com/images/channels/image_ch_metrotv.png" group-title="Nasional", Metro TV
+#EXTINF:-1 tvg-id="Metro TV.id" tvg-logo="https://images.indihometv.com/images/channels/image_ch_metrotv.png" group-title="Nasional", Metro TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV
@@ -192,7 +192,7 @@ http://5bf7b725107e5.streamlock.net/davika/davika/chunklist_w176875597.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Bali TV.id" tvg-name="Bali TV.id" tvg-logo="http://images.indihometv.com/images/channels/image_ch_balitv.png" group-title="DAERAH",Bali TV
+#EXTINF:-1 tvg-id="Bali TV.id" tvg-name="Bali TV.id" tvg-logo="https://images.indihometv.com/images/channels/image_ch_balitv.png" group-title="DAERAH",Bali TV
 http://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
 
 #EXTINF:-1 group-title="DAERAH" tvg-logo="http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jawapos.png",Jawa Pos TV
@@ -264,7 +264,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&amp;useri
 
 #EXTVLCOPT:http-referrer=http://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.indihometv.com/images/channels/image_ch_jtv.png" group-title="DAERAH",JTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_jtv.png" group-title="DAERAH",JTV
 http://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Uih7rCesQQ6wlvUOWGFne2czdRFLQATmU1okbJ9aGQ&s=10" group-title="DAERAH",MAGNA Channel (Server 1)
@@ -331,10 +331,10 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000015/1024.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensShowBiz
 
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="http://images.indihometv.com/images/channels/image_ch_galaxypremium.png" group-title="Movies & Entertainment",Galaxy Premium (gak support wifi indih*me)
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://images.indihometv.com/images/channels/image_ch_galaxypremium.png" group-title="Movies & Entertainment",Galaxy Premium (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
 
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="http://images.indihometv.com/images/channels/image_ch_animax.png" group-title="Movies & Entertainment",ANIMAX (gak support wifi indih*me)
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://images.indihometv.com/images/channels/image_ch_animax.png" group-title="Movies & Entertainment",ANIMAX (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
 
 #EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="http://i.ibb.co.com/wFG56FMn/20251205-033621.jpg" group-title="Movies & Entertainment",CINEEDGE (gak support wifi indih*me)
@@ -352,7 +352,7 @@ http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbohits/manifest.mpd
 #EXTINF:-1 group-title="Movies & Entertainment" tvg-logo="http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-Signature-180x180_2025_11_05_12_57_49.jpg",HBO Signature
 http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbosignature/manifest.mpd
 
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="http://images.indihometv.com/images/channels/image_ch_sony_one.png" group-title="Movies & Entertainment",ONE (gak support wifi indih*me)
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://images.indihometv.com/images/channels/image_ch_sony_one.png" group-title="Movies & Entertainment",ONE (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
 
 #EXTINF:-1 group-title="Movies & Entertainment" tvg-logo="http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_Cinemax-180x180_2025_11_05_13_11_15.jpg",CINEMAX
@@ -367,7 +367,7 @@ http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/kplus/manifest.mpd
 #EXTINF:-1 group-title="Movies & Entertainment" tvg-logo="http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-Allplay-Ent_2025_10_24_15_48_50.jpg",AllPlay Ent 
 http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/useeprime/manifest.mpd
   
-#EXTINF:-1 tvg-logo="http://images.indihometv.com/images/channels/image_ch_zeebioskop.png" group-title="Movies & Entertainment",Z BIOSKOP (gak support wifi indih*me)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_zeebioskop.png" group-title="Movies & Entertainment",Z BIOSKOP (gak support wifi indih*me)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/1024.m3u8
 
@@ -389,7 +389,7 @@ http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/thrill/manifest.mpd
 #EXTINF:-1 tvg-id="Thrill" tvg-name="Vision +" tvg-logo="http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_thrill.png" group-title="Movies & Entertainment",Thrill (Server 2) (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
   
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="http://images.indihometv.com/images/channels/image_ch_studiouniversal.png" group-title="Movies & Entertainment",Studio Universal (gak support wifi indih*me)
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://images.indihometv.com/images/channels/image_ch_studiouniversal.png" group-title="Movies & Entertainment",Studio Universal (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
   
 #EXTINF:-1 group-title="Movies & Entertainment" tvg-logo="http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_zeebioskop.png",Zee Bioskop
@@ -624,13 +624,13 @@ http://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHP4gK-yGMUdK7XLqiQlbVuKt_JBxekK5jD0HtMDWzmA&s=10" group-title="Kids",Zoo Moo (Server 2) (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000151/1024.m3u8
 
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="http://images.indihometv.com/images/channels/image_ch_dreamworks.png" group-title="Kids", DREAMWORKS (gak support wifi indih*me)
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://images.indihometv.com/images/channels/image_ch_dreamworks.png" group-title="Kids", DREAMWORKS (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="http://www.biznetvideo.net/images/video/poster/bizkids.jpg",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="Cbeebies" tvg-name="Vision +" tvg-logo="http://images.indihometv.com/images/channels/imageCir_180x180_CBeebies_2025_12_03_10_31_32.jpg" group-title="Kids",Cbeebies (gak support wifi indih*me)
+#EXTINF:-1 tvg-id="Cbeebies" tvg-name="Vision +" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CBeebies_2025_12_03_10_31_32.jpg" group-title="Kids",Cbeebies (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000006/1024.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png",Cartoon Network
@@ -702,15 +702,15 @@ http://op-group1-swiftservehd-1.dens.tv/h/h312/index.m3u8?app_type=web&amp;useri
 #EXTINF:-1 tvg-id="tv5monde" tvg-name="Vision +" tvg-logo="http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tv5monde.png" group-title="News & Other",tv5monde (Server 3) (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000005/1024.m3u8
 
-#EXTINF:-1 tvg-id="--" group-title="News & Other" group-logo="" tvg-logo="http://images.indihometv.com/images/channels/image_ch_aljazeera.png",Al Jazeera English (Server 1)
+#EXTINF:-1 tvg-id="--" group-title="News & Other" group-logo="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_aljazeera.png",Al Jazeera English (Server 1)
 http://cdn10jtedge.indihometv.com/atm/DASH/aljazeera/manifest.mpd
   
-#EXTINF:-1 group-title="News & Other" tvg-id="AlJazeeraEnglish.id" tvg-url="http://bit.ly/IndonesiaEpg" tvg-logo="http://images.indihometv.com/images/channels/image_ch_aljazeera.png", Al Jazeera English (Server 2)
+#EXTINF:-1 group-title="News & Other" tvg-id="AlJazeeraEnglish.id" tvg-url="http://bit.ly/IndonesiaEpg" tvg-logo="https://images.indihometv.com/images/channels/image_ch_aljazeera.png", Al Jazeera English (Server 2)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h143/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Al_Jazeera_English
 
-#EXTINF:-1 group-title="News & Other" tvg-id="AlJazeeraEnglish.id" tvg-url="http://bit.ly/IndonesiaEpg" tvg-logo="http://images.indihometv.com/images/channels/image_ch_aljazeera.png", Al Jazeera Arabic
+#EXTINF:-1 group-title="News & Other" tvg-id="AlJazeeraEnglish.id" tvg-url="http://bit.ly/IndonesiaEpg" tvg-logo="https://images.indihometv.com/images/channels/image_ch_aljazeera.png", Al Jazeera Arabic
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Al_Jazeera_Arabic
