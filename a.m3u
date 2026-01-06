@@ -1,5 +1,5 @@
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg",GTV (Server 1)
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/globaltv/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
 
 #EXTINF:-1 tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg" group-title="Nasional",GTV (Server 2)
 #EXTVLCOPT:http-user-agent=android-R+
@@ -10,7 +10,7 @@ http://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg",MNCTV (Server 1)
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/mnctv/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
 
 #EXTINF:-1 tvg-name="MNC TV (R+)" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV (Server 2)
 #EXTVLCOPT:http-user-agent=android-R+
@@ -25,7 +25,7 @@ http://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&v
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png",SCTV (Server 1)
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/sctv/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png" group-title="Nasional",SCTV (Server 2)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -55,7 +55,7 @@ http://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg" group-title="Nasional",RCTI (Server 1)
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/rcti/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
 
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="http://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg" group-title="Nasional",RCTI (Server 2)
 #EXTVLCOPT:http-user-agent=android-R+
@@ -76,7 +76,7 @@ https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 http://tv.casindo.org/hls/11/11.m3u8
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png",Indosiar (Server 1)
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/indosiar/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 #EXTINF:-1 group-title="Nasional" tvg-id="" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png",Indosiar (Server 2)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -86,7 +86,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=li
 http://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=205
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png",RTV (Server 1)
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/RAJAWALI_TV/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="http://bit.ly/Channel IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png" group-title="Nasional",RTV (Server 2)
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
@@ -106,7 +106,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8
 
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_Sinpo-1800x1800_2025_11_06_13_04_13.jpg",Sin Po TV
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/sinpotv/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 
 #EXTINF:-1 tvg-id="--" group-title="Nasional" group-logo="http://iili.io/FZpXRf4.jpg" tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvone.png",TVONE (Server 1)
 http://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
@@ -132,7 +132,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nusantaratv.png",NUSANTARA TV (Server 1)
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/nusantaratv/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -157,7 +157,7 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png",Kompas TV (Server 1)
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/KOMPAS_TV/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
 
 #EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png" group-title="Nasional", Kompas TV (Server 2)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -165,7 +165,7 @@ http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/KOMPAS_TV/manifest.mpd
 http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Kompas_TV
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvri.png",TVRI (Server 1)
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/TVRI/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/TVRI/manifest.mpd
 
 #EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvri.png" group-title="Nasional", TVRI (Server 2)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -176,7 +176,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&amp;userid
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000010/1024.m3u8
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-TVRI-World_2025_11_03_11_11_10.jpg",TVRI World
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/tvriworld/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/tvriworld/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_daaitv.png" group-title="Nasional",DAAI TV (Server 1)
 http://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
@@ -211,7 +211,7 @@ http://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000042/1024.m3u8
 
 #EXTINF:-1 group-title="DAERAH" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jawapos.png",Jawa Pos TV
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/jawapos/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx8VAQiIBM9k-NJgE_G4hO9fwcnpTqFuFNP04VnBOHDQ&s=10" group-title="DAERAH",PKTV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
@@ -226,7 +226,7 @@ http://202.150.153.254:65500/bandungtvWEBSITE.m3u8?checkedby:iptvcat.org
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000068/1024.m3u8
 
 #EXTINF:-1 group-title="DAERAH" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-AntaraTV_2025_10_24_15_50_32.jpg",Antara TV
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/antara/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
 
 #EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD5l2V_QpCDone0pMjkPXbdkgXMunaVWl9Gh2FvC069A&s=10",Banjar TV
 #http://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C88MTYHRywwqFdGIFJtN4wgQ/ts
@@ -294,7 +294,7 @@ http://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
 
 #EXTINF:-1 group-title="DAERAH" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jaktv.png",JakTV (Server 1)
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/JAK_TV/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
 
 #EXTINF:-1 tvg-id="112" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jaktv.png" group-title="DAERAH", JakTV (Server 2)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -322,6 +322,10 @@ http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000020/1024.m3u8
 
 Movies & Entertainment⚠️⚠️⚠️
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_flik.png" group-title="Movies & Entertainment",FLIK
+http://tv.casindo.org/hls/33/33.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://pic.dens.tv/tv_183x174/1701422013_square.jpg" group-title="Movies & Entertainment",CREMA TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -355,41 +359,44 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000015/1024.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensShowBiz
 
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://images.indihometv.com/images/channels/image_ch_galaxypremium.png" group-title="Movies & Entertainment",Galaxy Premium (gak support wifi indih*me)
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://images.indihometv.com/images/channels/image_ch_galaxypremium.png" group-title="Movies & Entertainment",Galaxy Premium (Server 1)
+http://tv.casindo.org/hls/40/40.m3u8
+
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://images.indihometv.com/images/channels/image_ch_galaxypremium.png" group-title="Movies & Entertainment",Galaxy Premium (Server 2) (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
 
 #EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://images.indihometv.com/images/channels/image_ch_animax.png" group-title="Movies & Entertainment",ANIMAX (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
 
 #EXTINF:-1 group-title="Movies & Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-180x180_2025_11_05_11_21_29.jpg",HBO
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbo/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 
 #EXTINF:-1 group-title="Movies & Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-Familly-180x180_2025_11_05_11_14_46.jpg",HBO Family
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbofamily/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
 #EXTINF:-1 group-title="Movies & Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-Hits-180x180_2025_11_05_11_23_20.jpg",HBO Hits
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbohits/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 
 #EXTINF:-1 group-title="Movies & Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-Signature-180x180_2025_11_05_12_57_49.jpg",HBO Signature
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbosignature/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
 #EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://images.indihometv.com/images/channels/image_ch_sony_one.png" group-title="Movies & Entertainment",ONE (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
 
 #EXTINF:-1 group-title="Movies & Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_Cinemax-180x180_2025_11_05_13_11_15.jpg",CINEMAX
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/cinemax/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 #EXTINF:-1 group-title="Movies & Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kix.png",KIX
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/kix/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
 
 #EXTINF:-1 group-title="Movies & Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kplus.png",K-Plus
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/kplus/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
   
 #EXTINF:-1 group-title="Movies & Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-Allplay-Ent_2025_10_24_15_48_50.jpg",AllPlay Ent 
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/useeprime/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
   
 #EXTINF:-1 group-title="Movies & Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rockent.png",ROCK Entertainment (Server 1)
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/rock_entertainment/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_hits.png" group-title="Movies & Entertainment",HITS (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
@@ -398,13 +405,13 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
 #http://202.80.222.20/cdn/iptv/Tvod/001/channel2000110/1024.m3u8
 
 #EXTINF:-1 group-title="Movies & Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rockaction.png",Rock Action (Server 1)
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/ROCK_ACTION/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
   
 #EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rockaction.png" group-title="Movies & Entertainment",Rock Action (Server 2) (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000120/1024.m3u8
   
 #EXTINF:-1 group-title="Movies & Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_thrill.png",Thrill (Server 1)
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/thrill/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
   
 #EXTINF:-1 tvg-id="Thrill" tvg-name="Vision +" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_thrill.png" group-title="Movies & Entertainment",Thrill (Server 2) (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
@@ -413,14 +420,14 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
   
 #EXTINF:-1 group-title="Movies & Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_zeebioskop.png",Zee Bioskop (Server 1)
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/zbioskop/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
   
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_zeebioskop.png" group-title="Movies & Entertainment",Zee Bioskop (Server 2) (gak support wifi indih*me)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/1024.m3u8
 
 #EXTINF:-1 group-title="Movies & Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_axn.png",AXN (Server 1)
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/axn/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
   
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_axn.png" group-title="Movies & Entertainment",AXN (Server 2) (gak support wifi indih*me)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -443,7 +450,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
 
 
 #EXTINF:-1 group-title="Movies & Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_warnertv.png",Warner TV
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/warner/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
  
 #EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="http://i.ibb.co.com/JwJ5P23S/20251205-055042.png" group-title="Movies & Entertainment",Originals (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000154/1024.m3u8
@@ -456,20 +463,20 @@ http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid
  Music⚠️⚠️⚠️
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUmD8kezjJ_bExfFAYVu058bNm1AU5ooUkZfCuFGVlIg&s" group-title="Music",CLUB MTV
-http://iptv.prosto.tv:7000/ch125/video.m3u8
+#http://iptv.prosto.tv:7000/ch125/video.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="http://i.imgur.com/4D8EMdN.png",MTV Live
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/MTV_LIVE/manifest.mpd
+#http://cdn10jtedge.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_prambors.png",Prambors
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/pramborstv/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/pramborstv/manifest.mpd
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOwJ3nMLtOx5wg8VRC78aiu89spXLxKf5IjGU6-Av92w&s=10" group-title="Music",MTV 00s
-http://iptv.prosto.tv:7000/ch129/video.m3u8
+#http://iptv.prosto.tv:7000/ch129/video.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ZUH_7YYuEtOCJyPYeYIfPwKR8cfikTlNhYysNB4USQ&s=10" group-title="Music",MTV 80S
-http://iptv.prosto.tv:7000/ch130/video.m3u8
+#http://iptv.prosto.tv:7000/ch130/video.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NANFO7v.png" group-title="Music",NOW 70S
 http://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
@@ -502,6 +509,12 @@ http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;userid
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVu7P3S47vsKEn29qFb3oARbDas-d9JICj3qwWbzJRbw&s=10" group-title="Religion: Islam", Quran TV (Server 2) (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000067/1024.m3u8
 
+#EXTINF:-1 group-title="Religion: Islam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVu7P3S47vsKEn29qFb3oARbDas-d9JICj3qwWbzJRbw&s=10",Quran TV (Server 3)
+http://cdn10jtedge.indihometv.com/atm/DASH/alquran/manifest.mpd
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvmui.png",MUI TV
+http://cdn10jtedge.indihometv.com/atm/DASH/muitv/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_92.png" group-title="Religion: Islam", Muslim TV (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000021/1024.m3u8
 
@@ -514,7 +527,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid
 http://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
 
 #EXTINF:-1 group-title="Religion: Islam" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mqtv.png",MQTV (Server 1)
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/mqtv/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/mqtv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mqtv.png" group-title="Religion: Islam",MQTV (Server 2)
 #EXTVLCOPT:http-referrer=http://tv.garden/
@@ -522,29 +535,29 @@ http://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w107392989.m3u8
 
 
 #EXTINF:-1 group-title="Religion: Islam" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rodjatv.png",Rodja TV (Server 1)
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/rodjatv/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/rodjatv/manifest.mpd
 
 #EXTINF:-1 tvg-id="RodjaTV.id" tvg-name="Rodja TV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rodjatv.png" group-title="Religion: Islam",Rodja TV (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8
  
 #EXTINF:-1 group-title="Religion: Islam" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mta.png",MTATV
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/mtatv/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd
   
 #EXTINF:-1 group-title="Religion: Islam" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_DMITV-180x180_2025_11_06_11_00_00.jpg",DMI TV (Server 1)
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/tawaftv/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/tawaftv/manifest.mpd
  
 #EXTINF:-1 tvg-id="DMI Tv" tvg-name="Vision +" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_DMITV-180x180_2025_11_06_11_00_00.jpg" group-title="Religion: Islam",DMI TV (Server 2) (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000002/1024.m3u8
   
 #EXTINF:-1 group-title="Religion: Islam" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tv9.png",TV9 NU (Server 1)
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/tv9/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/tv9/manifest.mpd
 
 #EXTINF:-1 tvg-id="TV9 NU.id" tvg-name="TV9 NU.id" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tv9.png" group-title="Religion: Islam",TV9 NU (Server 2)
 http://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
 
 #EXTINF:-1 group-title="Religion: Islam" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvmu.png",TVMu (Server 1)
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/muhammadiyahtv/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/muhammadiyahtv/manifest.mpd
 
 #EXTINF:-1 group-title="Religion: Islam" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvmu.png",TVMu (Server 2) (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000024/1024.m3u8
@@ -552,7 +565,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000024/1024.m3u8
 Religion: Kristen⚠️⚠️⚠️⚠️
 
 #EXTINF:-1 group-title="Religion: Kristen" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_uchannel.png",UChannel
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/uchannel/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/uchannel/manifest.mpd
   
 #EXTINF:-1 tvg-id="78" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyjQ06lJjc-ekyMKv4ByNQK2Fwug8dQyUerAiyHny5FQ&s" group-title="Religion: Kristen",TBN
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -570,7 +583,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_history.png" group-title="Knowledge & Lifestyle",HISTORY (gak support wifi indih*me)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -622,10 +634,10 @@ http://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg0
 http://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
 
 #EXTINF:-1 group-title="Knowledge & Lifestyle" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_atv.png",ATV
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/atv/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/atv/manifest.mpd
 
 #EXTINF:-1 group-title="Knowledge & Lifestyle" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_fashiontv.png",FashionTV
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/fashiontv/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/fashiontv/manifest.mpd
 
 #EXTINF:-1 group-title="Knowledge & Lifestyle" tvg-logo="http://www.biznetvideo.net/images/video/poster/bizlifestyle.jpg",Biznet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/manifest.mpd
@@ -634,7 +646,7 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/manifest.
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?checkedby:iptvcat.org
 
 #EXTINF:-1 group-title="Knowledge & Lifestyle" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cgtndocumentary.png",CGTN Documentary (Server 1)
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
 
 #EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cgtndocumentary.png" group-title="Knowledge & Lifestyle",CGTN Documentary (Server 2) (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
@@ -657,7 +669,11 @@ http://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHP4gK-yGMUdK7XLqiQlbVuKt_JBxekK5jD0HtMDWzmA&s=10" group-title="Kids",Zoo Moo (Server 2) (gak support wifi indih*me)
 #http://202.80.222.20/cdn/iptv/Tvod/001/channel2000151/1024.m3u8
 
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://images.indihometv.com/images/channels/image_ch_dreamworks.png" group-title="Kids", DREAMWORKS (gak support wifi indih*me)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_dreamworks.png" group-title="Kids", DREAMWORKS Server 1)
+http://tv.casindo.org/hls/7/7.m3u8
+
+
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://images.indihometv.com/images/channels/image_ch_dreamworks.png" group-title="Kids", DREAMWORKS (Server 2) (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="http://www.biznetvideo.net/images/video/poster/bizkids.jpg",Biznet Kids
@@ -670,10 +686,10 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000006/1024.m3u8
 #http://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_funplanet.png",FunPlanet
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/indikids/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mykidz.png",My Kidz
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/mykids/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd3dTXWI348QyoBjCXZk--ZO3BDGch2KFXy0xvliGPCg&s=10" group-title="Kids",DEI KIDS
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
@@ -775,13 +791,13 @@ http://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8?app_type=web&amp;userid
   
   
 #EXTINF:-1 group-title="News & Other" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_BBC_NEWS_2025_12_03_10_30_32.jpg",BBC News (Server 1)
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/bbcnews/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/bbcnews/manifest.mpd
   
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_BBC_NEWS_2025_12_03_10_30_32.jpg" group-title="News & Other",BBC News (Server 2)
 http://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 group-title="News & Other" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_bloomberg.png",Bloomberg (Server 1)
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/BLOOMBERG_AT/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/BLOOMBERG_AT/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_bloomberg.png" group-title="News & Other",Bloomberg (Server 2)
 http://bloomberg.com/media-manifest/streams/asia.m3u8
@@ -790,13 +806,13 @@ http://bloomberg.com/media-manifest/streams/asia.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000007/1024.m3u8
 
 #EXTINF:-1 group-title="News & Other" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_chinesenewsasia.png",Channel News Asia (Server 1)
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/newsasia/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/newsasia/manifest.mpd
 
 #EXTINF:-1 group-title="News & Other" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_chinesenewsasia.png",Channel News Asia (Server 2) (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000030/1024.m3u8
 
 #EXTINF:-1 group-title="News & Other" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_dwtv.png",DW News (Server 1)
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/DWTV/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
   
 #EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_dwtv.png" group-title="News & Other",DW News (Server 2) (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000158/1024.m3u8
@@ -820,7 +836,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000031/1024.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h101/S4/mnf.m3u8
 
 #EXTINF:-1 group-title="News & Other" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_france24.png",France24 (Server 1)
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/FRANCE_24/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/FRANCE_24/manifest.mpd
 
 #EXTINF:0 group-title="News & Other" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_france24.png",France24 (Server 2)
 http://op-group1-swiftservesd-1.dens.tv/s/s22/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=France_24
@@ -830,7 +846,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000025/1024.m3u8
 
 
 #EXTINF:-1 group-title="News & Other" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUuAlkE08b3RI79ZRo0e4oe0nZm3NxnuYOIw&s",NHK World Japan (Server 1)
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUuAlkE08b3RI79ZRo0e4oe0nZm3NxnuYOIw&s" group-title="News & Other",NHK World Japan (Server 2)
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -842,10 +858,10 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000029/1024.m3u8
 
 
 #EXTINF:-1 group-title="News & Other" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvbsnews.png",TVBS News
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/TVBS_NEWS/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/TVBS_NEWS/manifest.mpd
   
 #EXTINF:-1 group-title="News & Other" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_abcaustrlia.png",ABC AUSTRALIA (Server 1)
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_abcaustrlia.png" group-title="News & Other",ABC AUSTRALIA (Server 2) (gak support wifi indih*me)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -855,10 +871,10 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000073/1024.m3u8
 http://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
   
 #EXTINF:-1 group-title="News & Other" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_arirang.png",Arirang
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/ARIRANG/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/ARIRANG/manifest.mpd
   
 #EXTINF:-1 group-title="News & Other" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cctv4.png",CCTV4 (Server 1)
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/CCTV_4/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/CCTV_4/manifest.mpd
 
 #EXTINF:-1 tvg-id="CCTV4.id" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cctv4.png" group-title="News & Other",CCTV4 (Server 2)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -867,13 +883,13 @@ http://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8?app_type=web&amp;userid
 
 
 #EXTINF:-1 group-title="News & Other" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_newtvcompre.png",New TV Comprehensive
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/newtvcomprehensive/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/newtvcomprehensive/manifest.mpd
 
 #EXTINF:-1 group-title="News & Other" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_newtvfinance.png",New TV Finance
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/newtvfinance/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/newtvfinance/manifest.mpd
 
 #EXTINF:-1 group-title="News & Other" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_newtvvariety.png",New TV Variety
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/newtvvariety/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/newtvvariety/manifest.mpd
   
 #EXTINF:-1 group-title="News & Other" tvg-logo="http://play-lh.googleusercontent.com/641HH_2fGFukrNZigSrRN7dvz0K2ZxTkyM124C5MGACPXga19mTHz_2XXXI7w_UdJGs=w240-h480",AFRICANEWS
 http://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8
@@ -1455,7 +1471,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=10&b
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="TV JEPANG" tvg-id="mtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSI82JslMrEwW4KxUe0WHHi4lEV-L3konQ1Xzf2lvefA&s=10",MTV  japan
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=10&bind=0&uin=159413&playseek=0
+#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=10&bind=0&uin=159413&playseek=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="TV JEPANG" tvg-id="http://bit.ly/JejeVisionEPG" tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/music_japan_tv.png",Music JapanTV
@@ -1470,7 +1486,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=10&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
 
 #EXTINF:-1 group-title="TV JEPANG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUuAlkE08b3RI79ZRo0e4oe0nZm3NxnuYOIw&s",NHK WORLD JAPAN
-http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="TV JEPANG" tvg-id="ntvgplus" tvg-logo="http://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",Nittele G+
