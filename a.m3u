@@ -1,24 +1,11 @@
-#EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg",GTV (Server 1)
+#EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg",MNCTV
 http://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
-
-#EXTINF:-1 tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg" group-title="Nasional",GTV (Server 2)
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=http://www.rctiplus.com/
-http://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2zZkqJj5qCgswMA-ZjFUudUQJEL_nSbKnix5YojYTGw&s=10" group-title="Nasional",BN CHANNEL
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 
-#EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg",MNCTV (Server 1)
+#EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg",MNCTV
 http://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
-
-#EXTINF:-1 tvg-name="MNC TV (R+)" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV (Server 2)
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=http://www.rctiplus.com/
-http://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-
-#EXTINF:-1 tvg-id="ANTV.id" group-title="Nasional" tvg-logo="https://images.indihometv.com/images/channels/image_ch_antv.png",ANTV (Server 1)
-#http://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=782
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_antv.png" group-title="Nasional", ANTV (gak support wifi indih*me)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -32,15 +19,8 @@ http://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8?app_type=web&userid=lite&chname=sctv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png" group-title="Nasional",SCTV (Server 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_key=http://nextgenz.my.id/event/pidio/play.mpd?id=204&type=drm
-#http://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
-
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_transtv.png" group-title="Nasional",Trans TV (Server 1)
 http://video.detik.com/transtv/smil:transtv.smil/index.m3u8
-#http://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_transtv.png" group-title="Nasional",Trans TV (Server 2) (gak support wifi indih*me)
@@ -48,7 +28,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_trans7.png" group-title="Nasional",Trans 7 (Server 1)
 http://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-#http://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_trans7.png" group-title="Nasional",Trans 7 (Server 2) (gak support wifi indih*me)
@@ -57,23 +36,15 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg" group-title="Nasional",RCTI (Server 1)
 http://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
 
-#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="http://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg" group-title="Nasional",RCTI (Server 2)
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=http://www.rctiplus.com/
-http://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg" group-title="Nasional",RCTI (Server 3) (gak support wifi indih*me)
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg" group-title="Nasional",RCTI (Server 2) (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
 
 #EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-url="http://bit.ly/IndonesiaEpg" tvg-name="BTV" tvg-logo="https://images.indihometv.com/images/channels/image_ch_btv.png" group-title="Nasional",BTV
 http://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW1MuO-B7b8rp-OxvTMusaYhyDeGdJVVnnedaN9vQV8w&s=10" group-title="Nasional",GARUDA TV (Server 1)
+#EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW1MuO-B7b8rp-OxvTMusaYhyDeGdJVVnnedaN9vQV8w&s=10" group-title="Nasional",GARUDA TV
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW1MuO-B7b8rp-OxvTMusaYhyDeGdJVVnnedaN9vQV8w&s=10" group-title="Nasional",GARUDA TV (Server 2)
-http://tv.casindo.org/hls/11/11.m3u8
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png",Indosiar (Server 1)
 http://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
@@ -82,17 +53,11 @@ http://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=indosiar
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png" group-title="Nasional",Indosiar (Server 3)
-#http://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=205
-
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png",RTV (Server 1)
 http://cdn10jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="http://bit.ly/Channel IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png" group-title="Nasional",RTV (Server 2)
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
-
-#EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png",RTV (Server 3) (gak support wifi indih*me)
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000057/1024.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -114,16 +79,10 @@ http://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvone.png",TVONE (Server 2)
 http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 
-#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-logo="https://images.indihometv.com/images/channels/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" group-title="Nasional",MDTV (Server 1)
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-logo="https://images.indihometv.com/images/channels/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" group-title="Nasional",MDTV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NET.
-
-#EXTINF:-1 tvg-id="NET.TV.id" tvg-logo="https://images.indihometv.com/images/channels/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" group-title="Nasional",MDTV (Server 2)
-#http://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=875
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" group-title="Nasional",MDTV (Server 2)
-http://tv.casindo.org/hls/44/44.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="Nasional",MOJI
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -141,12 +100,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8?app_type=web&userid=lit
 #EXTINF:-1 tvg-id="--" group-title="Nasional" group-logo="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_inews.png",INEWS (Server 1)
 http://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 
-#EXTINF:-1 group-title="Nasional" tvg-id="iNews R+ - [Channel 433].id" tvg-url="http://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://images.indihometv.com/images/channels/image_ch_inews.png",INEWS (Server 2)
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=http://www.rctiplus.com/
-http://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
- 
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://images.indihometv.com/images/channels/image_ch_inews.png" group-title="Nasional",INEWS (Server 3) (gak support wifi indih*me)
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://images.indihometv.com/images/channels/image_ch_inews.png" group-title="Nasional",INEWS (Server 2) (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cnnindonesia.png",CNN Indonesia
@@ -212,6 +166,11 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000042/1024.m3u8
 #EXTINF:-1 group-title="DAERAH" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jawapos.png",Jawa Pos TV
 http://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
 
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR68gIlLKiKBz0I3Sm91Du3kUshLw3tlKN_daCN8p9Hkg&s" group-title="DAERAH",Radar TV Tasikmalaya
+https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx8VAQiIBM9k-NJgE_G4hO9fwcnpTqFuFNP04VnBOHDQ&s=10" group-title="DAERAH",PKTV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
  
@@ -227,9 +186,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000068/1024.m3u8
 #EXTINF:-1 group-title="DAERAH" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-AntaraTV_2025_10_24_15_50_32.jpg",Antara TV
 http://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
 
-#EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD5l2V_QpCDone0pMjkPXbdkgXMunaVWl9Gh2FvC069A&s=10",Banjar TV
-#http://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C88MTYHRywwqFdGIFJtN4wgQ/ts
-
 #EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfXLUWiBllarKsFrPVAYVA5g7PYPjBmW2XEVZ-D3WLnuFZ-ivhfR02PDVRaDNPT9KONvEatw4g8FEGEvHYEr_aQnqbXlLejgEnFljJdg&s=10",BMS TV
 http://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
  
@@ -243,7 +199,7 @@ http://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 http://dutatv.siar.us/dutatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZv5Dy7sOu2_nM7QADKY9IpjqMKXkTIIikZCj6-rjJtQ&s" group-title="DAERAH",FICOM TV
-#http://v3.siar.us/ficomchannel/live/playlist.m3u8
+http://v3.siar.us/ficomchannel/live/playlist.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
@@ -266,7 +222,8 @@ http://e.siar.us/live/sampit-tv.m3u8
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmPAjalQmEpiHsQNGPEW9w4CiavBKecBx43blw3nqMuA&s=10 group-title="DAERAH",Bungo TV
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmPAjalQmEpiHsQNGPEW9w4CiavBKecBx43blw3nqMuA&s=10 group-title="DAERAH", Bungo TV
 http://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -278,11 +235,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&amp;useri
 
 #EXTVLCOPT:http-referrer=http://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_jtv.png" group-title="DAERAH",JTV (Server 1)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_jtv.png" group-title="DAERAH",JTV
 http://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_jtv.png" group-title="DAERAH",JTV (Server 2) (gak support wifi indih*me)
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000054/1024.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Uih7rCesQQ6wlvUOWGFne2czdRFLQATmU1okbJ9aGQ&s=10" group-title="DAERAH",MAGNA Channel (Server 1)
@@ -315,7 +269,7 @@ http://stream.matrixtv.id/hls/stream.m3u8
 http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
 
 #EXTINF:0 tvg-country="ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBiPpPmM_2lwsKLF4UL1fgMG3S2zO0J7CnVpBAg-5Nsw&s=10" group-title="DAERAH",Balikpapan TV
-#http://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8?checkedby:iptvcat.org
+http://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8?checkedby:iptvcat.org
 
 #EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzuV6XTX-lIHaMjSaz0ml1fo_S5mqpsjwdXpsO7-mxBg&s=10",Hanacaraka TV (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000020/1024.m3u8
@@ -358,10 +312,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000015/1024.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensShowBiz
 
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://images.indihometv.com/images/channels/image_ch_galaxypremium.png" group-title="Movies & Entertainment",Galaxy Premium (Server 1)
-http://tv.casindo.org/hls/40/40.m3u8
-
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://images.indihometv.com/images/channels/image_ch_galaxypremium.png" group-title="Movies & Entertainment",Galaxy Premium (Server 2) (gak support wifi indih*me)
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://images.indihometv.com/images/channels/image_ch_galaxypremium.png" group-title="Movies & Entertainment",Galaxy Premium (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
 
 #EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://images.indihometv.com/images/channels/image_ch_animax.png" group-title="Movies & Entertainment",ANIMAX (gak support wifi indih*me)
@@ -394,20 +345,14 @@ http://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 #EXTINF:-1 group-title="Movies & Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-Allplay-Ent_2025_10_24_15_48_50.jpg",AllPlay Ent 
 http://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
   
-#EXTINF:-1 group-title="Movies & Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rockent.png",ROCK Entertainment (Server 1)
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rockent.png",ROCK Entertainment
 http://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_hits.png" group-title="Movies & Entertainment",HITS (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rockent.png" group-title="Movies & Entertainment",ROCK Entertainment (Server 2) (gak support wifi indih*me)
-#http://202.80.222.20/cdn/iptv/Tvod/001/channel2000110/1024.m3u8
-
-#EXTINF:-1 group-title="Movies & Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rockaction.png",Rock Action (Server 1)
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rockaction.png",Rock Action
 http://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
-  
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rockaction.png" group-title="Movies & Entertainment",Rock Action (Server 2) (gak support wifi indih*me)
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000120/1024.m3u8
   
 #EXTINF:-1 group-title="Movies & Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_thrill.png",Thrill (Server 1)
 http://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
@@ -440,9 +385,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000145/1024.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQzwhAEPymcWmjlOitCjqAdZcs36Pdwn6bImBA5cOr9A&s=10" group-title="Movies & Entertainment", LIFETIME (gak support wifi indih*me)
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000046/1024.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmAKEUwgOvV4QxTTW45kajyQwnhyAd_YlNfSRZVUL-xA&s=10" group-title="Movies & Entertainment",CELESTIAL MOVIES (gak support wifi indih*me)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
@@ -461,22 +403,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid
 
  Music⚠️⚠️⚠️
  
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUmD8kezjJ_bExfFAYVu058bNm1AU5ooUkZfCuFGVlIg&s" group-title="Music",CLUB MTV
-#http://iptv.prosto.tv:7000/ch125/video.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="http://i.imgur.com/4D8EMdN.png",MTV Live
-#http://cdn10jtedge.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd
-
 #EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_prambors.png",Prambors
 http://cdn10jtedge.indihometv.com/atm/DASH/pramborstv/manifest.mpd
  
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOwJ3nMLtOx5wg8VRC78aiu89spXLxKf5IjGU6-Av92w&s=10" group-title="Music",MTV 00s
-#http://iptv.prosto.tv:7000/ch129/video.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ZUH_7YYuEtOCJyPYeYIfPwKR8cfikTlNhYysNB4USQ&s=10" group-title="Music",MTV 80S
-#http://iptv.prosto.tv:7000/ch130/video.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NANFO7v.png" group-title="Music",NOW 70S
 http://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
@@ -499,6 +428,14 @@ http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?checkedby:ip
 http://op-group1-swiftservehd-1.dens.tv/h/h229/S4/mnf.m3u8
 
 Religion: Islam⚠️⚠️⚠️⚠️⚠️
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0p4X9f-fLz_v8ntkLLePVYdrqSdkFqHmryqKykg7sYA&s=10",MADANI TV
+https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/GydAc8ocolWIwQ2A_1xFv0iQ3GM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7464/e69965.png",AJWA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=7464&type=hls
 
 #EXTINF:-1 tvg-id="82" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVu7P3S47vsKEn29qFb3oARbDas-d9JICj3qwWbzJRbw&s=10" group-title="Religion: Islam", Quran TV (Server 1)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -578,10 +515,6 @@ Knowledge & Lifestyle ⚠️⚠️⚠️⚠️
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_history.png" group-title="Knowledge & Lifestyle",HISTORY (gak support wifi indih*me)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-#http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
-
 #EXTINF:-1 tvg-logo="http://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA2200005ZA_20230426T015613SQUARE.png_20230426015614.png" group-title="Knowledge & Lifestyle",HISTORY HIT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/playlist/ldsAAAAAA-timeline-samsung-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
@@ -614,9 +547,6 @@ http://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBkEpm32lUKU2jRjtqN186aXIlYC2cv-o-U5rXEL2nuw&s=10" group-title="Knowledge & Lifestyle",Outdoor
 http://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBkEpm32lUKU2jRjtqN186aXIlYC2cv-o-U5rXEL2nuw&s=10" group-title="Knowledge & Lifestyle",Outdoor (Server 2) (gak support wifi indih*me)
-#http://202.80.222.20/cdn/iptv/Tvod/001/channel2000161/1024.m3u8
 
 #EXTINF:-1 tvg-id="Food Travel" tvg-name="Vision +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0ARlcoCC9chX5gIs-1rJUbgaBKUoiS3LCB7n4t8N-w&s=10" group-title="Knowledge & Lifestyle", Food Travel (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000003/1024.m3u8
@@ -660,12 +590,6 @@ Kids⚠️⚠️⚠️⚠️
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHP4gK-yGMUdK7XLqiQlbVuKt_JBxekK5jD0HtMDWzmA&s=10" group-title="Kids",Zoo Moo (Server 2) (gak support wifi indih*me)
-#http://202.80.222.20/cdn/iptv/Tvod/001/channel2000151/1024.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_dreamworks.png" group-title="Kids", DREAMWORKS Server 1)
-http://tv.casindo.org/hls/7/7.m3u8
-
 
 #EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://images.indihometv.com/images/channels/image_ch_dreamworks.png" group-title="Kids", DREAMWORKS (Server 2) (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
@@ -675,9 +599,6 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="Cbeebies" tvg-name="Vision +" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CBeebies_2025_12_03_10_31_32.jpg" group-title="Kids",Cbeebies (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000006/1024.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png",Cartoon Network
-#http://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_funplanet.png",FunPlanet
 http://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
@@ -709,9 +630,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000162/1024.m3u8
 
 #EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTFNp1qlY_j3EEEqG0hhPfEInfh355YzVaEhlWkbElaw&s=10" group-title="Kids",MOONBUG (Server 2) (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000125/1024.m3u8
-
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://images.indihometv.com/images/channels/image_ch_nick.png" group-title="Kids",Nickelodeon (gak support wifi indih*me)
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000060/1024.m3u8
 
 News & Other⚠️⚠️⚠️⚠️
 
@@ -815,7 +733,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000158/1024.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_dwtv.png" group-title="News & Other",DW News (Server 3)
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#http://op-group2-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&userid=lite&chname=DW-TV
+http://op-group2-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&userid=lite&chname=DW-TV
 
   
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaIL-fZlujoGNRXTD4BlO1ApW7m8wc4HTVvgtOTW46Vg&s=10" group-title="News & Other",Euro News. (Server 1)
@@ -915,9 +833,6 @@ Sports ⚠️⚠️⚠️⚠️⚠️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=MotoRRacing_TV
 
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAKzLwoAr-9_4yDtKE7_HAI6jEGSVyFRZ7xJpdV8knfA&s=10" group-title="SPORTS",Soccer Channel (gak support wifi indih*me)
-#http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxee3MeWtb_sjE1YsrSdSP8sHkrXKrfI6J-cFqrTPzWw&s" group-title="SPORTS",Sportstars 1 (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000134/1024.m3u8
 
@@ -930,9 +845,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSqvymjjFl4u9qqaY6deuns9CyZ9oOBTA3-QmXZrkmkg&s" group-title="SPORTS",Sportstars 4 (gak support wifi indih*me)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVPaJuTya6nxSlSj_kOrqLFrdGXS3MOPQJNx-L1T66yw&s=10" group-title="SPORTS",Unifi Sports
-http://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_fightsport.png" group-title="SPORTS",Fight Sports (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
@@ -986,38 +898,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db47
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKVJVdXD6NTy8nMOIOb_mqewV8NZMUjHdPog&s",DAZN RINGSIDE
 http://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="http://play-lh.googleusercontent.com/29dtV0Xw2tuaXTWba1VOCZkrQWX4jkkCAViHa0IttlJMOQEKnRh-lFJtAW0_06alkQg=w480-h960-rw",DIGI SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=http://pulse1.zalmora.cfd/000/
-#https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="http://play-lh.googleusercontent.com/29dtV0Xw2tuaXTWba1VOCZkrQWX4jkkCAViHa0IttlJMOQEKnRh-lFJtAW0_06alkQg=w480-h960-rw",DIGI SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=http://ultra2.falconx1.cfd/000/
-#https://ultra2.falconx1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="http://play-lh.googleusercontent.com/29dtV0Xw2tuaXTWba1VOCZkrQWX4jkkCAViHa0IttlJMOQEKnRh-lFJtAW0_06alkQg=w480-h960-rw",DIGI SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=http://ultra2.falconx1.cfd/000/
-#https://ultra2.falconx1.cfd/kuk3/usergendx0slfk9QssDx9lgxlsdmqrnd.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="http://play-lh.googleusercontent.com/29dtV0Xw2tuaXTWba1VOCZkrQWX4jkkCAViHa0IttlJMOQEKnRh-lFJtAW0_06alkQg=w480-h960-rw",DIGI SPORT 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=http://kudos111.terranovax1.cfd/000/
-#https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
-
-#EXTGRP:SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1  tvg-logo="http://i.ibb.co.com/0pgWY6r6/20251211-053950.jpg",Dubai Sports 1
+#EXTINF:-1  tvg-logo="http://i.ibb.co.com/0pgWY6r6/20251211-053950.jpg" group-title="SPORTS", Dubai Sports 1
 http://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
 
-#EXTGRP:SPORTS
-#EXTINF:-1  tvg-logo="http://i.ibb.co.com/pH3Y0XW/20251211-054129.jpg",Dubai Sports 2
+#EXTINF:-1  tvg-logo="http://i.ibb.co.com/0pgWY6r6/20251211-053950.jpg" group-title="SPORTS", Dubai Sports 2
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 
-#EXTGRP:SPORTS
-#EXTINF:-1  tvg-logo="http://i.ibb.co.com/Gfpwn00J/20251211-054149.jpg",Dubai Sports 3
+#EXTINF:-1  tvg-logo="http://i.ibb.co.com/0pgWY6r6/20251211-053950.jpg" group-title="SPORTS", Dubai Sports 3
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 
@@ -1026,7 +915,7 @@ http://46.151.196.223:14444/
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6QXsSWB4sHNaP_8E89FFKfE8NmOfM2Caa8pyZC4j-tA&s=10",ESPN 5 HD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22012.ts
-\ 
+
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6QXsSWB4sHNaP_8E89FFKfE8NmOfM2Caa8pyZC4j-tA&s=10",ESPN 5 SD
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
 
@@ -1069,33 +958,10 @@ http://get.perfecttv.net/mutv.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlsTU5heTAFtGIv1BJDUGlITBdszZxqPoAJXbxFBfi8A&s=10" group-title="SPORTS",OMAN SPORT
 http://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
-
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrHTToZKceHSwLQNczARudnVmd22-jhHI1I42-R1xDHQ&s=10",PRIMA SPORTS 1
-#EXTVLCOPT:http-referrer=http://rohan116.ultronx1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0aw_JDvi4QHwzGZACuLt34ujC43p1u_KxX2D47kkTyg&s=10",PRIMA SPORTS 2
-#EXTVLCOPT:http-referrer=http://arwen1.panaka1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS_JtcIOXmIwq3imDEC_1IyqsgZkScX5b6VPticKRMkQ&s",PRIMA SPORTS 3 
-#EXTVLCOPT:http-referrer=http://iron1.jarvisx1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8R45Al5rlbjdcynL6KwlGcRgYhiRSKVW3ZnPsEQ1uMg&s",PRIMA SPORTS 4
-#EXTVLCOPT:http-referrer=http://galandriel1.thobias.cfd/000/
-#https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
-
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFGVLgLCBdkBSVEZVoSbPO_bfT0SvD8s403lSD5-hz_w&s=10",RAI SPORT
 http://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 
-#EXTGRP:SPORTS
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdF4mFT1c5HiF_lypMLf-fuNcR9RRAhsVZeo6WghCXLQ&s=10",RedBull TV
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdF4mFT1c5HiF_lypMLf-fuNcR9RRAhsVZeo6WghCXLQ&s=10" group-title="SPORTS" RedBull TV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
@@ -1114,15 +980,12 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc-8eFnxcvSLhAIy8n30rYJ1Cx-MlhILrD1_3enDxQdocyytnkZBA8WPk&s=10",SPOTV 2 KR
 http://live-114.myjktv.com/watch/live.m3u8?video=spotv_2_540&sid=2iUb1KysZi1FgI3A4q1vTwlJpRRkoy54IEYb0BCv&secret=c39c338dae3770e87e398ac056d6f176&time=1736162164 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" group-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBfX1IrV-eg8rQU46VBWPZQCeUORH9uX-NOK9zvbOoWw&s=10",SUKAN RTM (Server 1)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" group-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBfX1IrV-eg8rQU46VBWPZQCeUORH9uX-NOK9zvbOoWw&s=10",SUKAN RTM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 http://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBfX1IrV-eg8rQU46VBWPZQCeUORH9uX-NOK9zvbOoWw&s=10" group-title="SPORTS",SUKAN RTM (Server 2)
-http://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="trueSports Arena.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8JpvdlcROg1wC7WsyMn4v8_89O9TkhcRo0p5WeKhg&s",True Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
@@ -1330,24 +1193,18 @@ http://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV Malaysia" group-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBfX1IrV-eg8rQU46VBWPZQCeUORH9uX-NOK9zvbOoWw&s=10",SUKAN RTM (Server 1)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TV Malaysia" group-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBfX1IrV-eg8rQU46VBWPZQCeUORH9uX-NOK9zvbOoWw&s=10",SUKAN RTM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 http://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBfX1IrV-eg8rQU46VBWPZQCeUORH9uX-NOK9zvbOoWw&s=10" group-title="TV Malaysia",SUKAN RTM (Server 2)
-http://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlA8l4OQVoAMZWwl7dRl9_DdQKvNikj1rtw1j4-EPlMQ&s=10" group-title="TV Malaysia",TV Ikim
 http://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
 
 #EXTINF:-1 tvg-id="Okey" tvg-url="http://bit.ly/RtmEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJNVbxt4XtGPzLAumjr7aOKRMdE2-5GUZC6qR3lGpQiA&s=10" group-title="TV Malaysia",TV OKEY
 http://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-
-#EXTINF:-1 xui-id="3513" tvg-id="" tvg-name="MY - TVS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Ijz2UhIp-BGn5BWAwfzy5rLB-jNCLDXvOvVFcYb9P-5Fy4BMVG2vWvM&s=10" group-title="TV Malaysia",TVS
-https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C83OO1-ty7HpBxIWre_PMcGM/ts
 
 #EXTINF:-1 tvg-id="TV1" tvg-url="http://bit.ly/RtmEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROWCxbjZD7crkB9KPZd66r2pGuvqgh6rEkRT0aHIh5cg&s=10" group-title="TV Malaysia",TV1
 http://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
@@ -1465,7 +1322,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=10&b
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="TV JEPANG" tvg-id="mtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSI82JslMrEwW4KxUe0WHHi4lEV-L3konQ1Xzf2lvefA&s=10",MTV  japan
-#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=10&bind=0&uin=159413&playseek=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="TV JEPANG" tvg-id="http://bit.ly/JejeVisionEPG" tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/music_japan_tv.png",Music JapanTV
